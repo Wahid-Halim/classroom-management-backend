@@ -15,9 +15,3 @@ export const departments = pgTable("departments", {
   description: varchar("description", { length: 255 }),
   ...timeStamps,
 });
-
-
-export const subjects = pgTable("subjects", {
-    id: integer('id').primaryKey().generatedAlwaysAsIdentity(),
-    
-})
