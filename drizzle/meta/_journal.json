@@ -8,6 +8,13 @@
       "when": 1769585425927,
       "tag": "0000_melted_daredevil",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1770274649516,
+      "tag": "0001_fuzzy_nighthawk",
+      "breakpoints": true
     }
   ]
 }
